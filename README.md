@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Ícaro Dantas! 👋
 
-<!--
-**icaro227/icaro227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** na UFS e Jovem Aprendiz no **SENAI** como analista de dados.
 
-Here are some ideas to get you started:
+### 🛠 Minhas Tecnologias
+- **Linguagem:** Python
+- **Interesses:** Algoritmos, Lógica de Programação, Matemática e IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🥋 Sobre mim
+- 🥋 Atleta de Jiu-Jitsu.
+- 🏋️ Entusiasta de esportes e academia.
+- 🌱 Aprendendo algo novo todos os dias!
+
+---
+
+### 📈 Minhas Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaro227&show_icons=true&theme=radical)
